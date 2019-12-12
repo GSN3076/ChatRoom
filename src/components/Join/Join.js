@@ -11,7 +11,7 @@ export default function SignIn() {
   return (
     <div className="joinOuterContainer">
       <div className="sideImage">
-      <img style={{}} src={require("../../img/join.png")} />
+      <img  src={require("../../img/join.png")} />
       </div>
       <div className="joinInnerContainer">
         <h1 className="heading">Join Room</h1>
